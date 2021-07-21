@@ -1,0 +1,9 @@
+# Ignorar la Carpeta node_modules
+node_modules
+
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignorar variables de entorno
+variables.env
+
